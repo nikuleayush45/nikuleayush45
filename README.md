@@ -80,7 +80,17 @@ Git • GitHub • VS Code
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikuleayush45&theme=github-compact&hide_border=true)
 
 ## 🌐 Let's Connect
+<p align="left">
 
+  <a href="https://github.com/nikuleayush45">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+
+<a href="https://instagram.com/_its_ayush_45__">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/>
+</a>
+
+</p>
 Feel free to connect and collaborate on exciting projects! 🤝
 
 ## 💭 Personal Motto
